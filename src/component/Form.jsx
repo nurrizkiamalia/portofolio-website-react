@@ -3,7 +3,7 @@ export default function Form(){
         <>
             <div className="form-container container">
                 <div className="form-box">
-                    <img src="src/assets/hero-img.png" />
+                    <img src="assets/hero-img.png" />
                     <div className="contact-detail">
                         <p className="para-md">Contact Details</p>
                         <a className="para-lg">ayush.barnwal@brightscout.com</a>

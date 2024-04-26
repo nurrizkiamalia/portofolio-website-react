@@ -4,7 +4,7 @@ export default function Footer(){
             <div className="footer-container">
                 <div className="footer-text">
                     <h2 className="heading2">Have something in mind?</h2>
-                    <h2 className="heading2 with-pic"><img src="src/assets/hero-img.png" className="footer-img"/>let's build it together.</h2>
+                    <h2 className="heading2 with-pic"><img src="assets/hero-img.png" className="footer-img"/>let's build it together.</h2>
                 </div>
 
                 <button className="footer-btn para-md">Get in touch</button>

@@ -29,7 +29,7 @@ function Reviews(props){
         <div className="recent-review">
             <p className="para-lg">{props.item.review}</p>
             <div className="person-info">
-                <img src={`src/assets/${props.item.image}`} />
+                <img src={`assets/${props.item.image}`} />
                 <div className="info-detail">
                     <p className="para-md">{props.item.name} </p>
                     <p className="para-sm">{props.item.role} </p>

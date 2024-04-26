@@ -36,7 +36,7 @@ function ProjectList(props){
     return(
             <div className="project-box">
                 <button className="btn-project">Visit the website <i className="ri-arrow-right-up-line"></i></button>
-                <img src={`src/assets/${props.item.Image}`}  alt="project" />
+                <img src={`assets/${props.item.Image}`}  alt="project" />
             </div>
     )
 }
