@@ -13,7 +13,7 @@ export default function Hero(){
                 <div className="slide-text heading-display">
                     <span>Webflow Developer - UI/UX Designer - Webflow Developer - UI/UX Designer</span>
                 </div>
-                <img src={"/src/assets/hero-img.png"} className="img-hero"></img>
+                <img src={"src\assets\hero-img.png"} className="img-hero"></img>
             </div>
         </>
     )
